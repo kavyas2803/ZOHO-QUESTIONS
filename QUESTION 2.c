@@ -1,3 +1,5 @@
+/*INPUT zoho !is @good
+  OUTPUT doog !si @ohoz*/
 #include<stdio.h>
 #include<string.h>
 int main()
